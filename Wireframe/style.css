@@ -15,7 +15,14 @@ As well as useful links to learn more */
  For you to explore and play with if you are interested
  https://web.dev/articles/min-max-clamp
  https://scrimba.com/learn-css-variables-c026
+ 
 ====== Design Palette ====== */
+h1{
+  text-align: center;
+}
+p{
+  text-align: center;
+}
 :root {
   --paper: oklch(7 0 0);
   --ink: color-mix(in oklab, var(--color) 5%, black);
